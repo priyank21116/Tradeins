@@ -2,7 +2,7 @@
 - Made in may-2021 
 - Meant for real e-commerce trading. Users can add items on wishlist or directly on their cart, place an
 order, andcheckout. Shopkeeper can add new item on his store site anytime.
-- The backend of this app uses Nodejs, Express, MongoDB.. The frontend uses React js , Redux ,Material-ui.
+- The frontend uses React js , Redux ,Material-ui.The backend of this app uses Nodejs, Express, MongoDB.. 
 
 ## demo
 
